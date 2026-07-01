@@ -1,10 +1,8 @@
 # AdaptiFit — Unified Inclusive Health & Fitness Project
 
 > Your pace. Your ability. Your movement — for body **and** mind.
+<img width="1872" height="1018" alt="image" src="https://github.com/user-attachments/assets/e647133f-5533-442b-96bf-77a84c039469" />
 
-**👉 This repository has been merged into a single app: `AdaptiFit`, in the [`hi/`](./hi) folder.**
-It unifies every prototype's features into one modern, accessibility-first app
-(Next.js 16 · React 19 · Tailwind 4 · shadcn/ui · Prisma), using the `ayush` UI.
 
 **Run the whole thing from the repo root:**
 
