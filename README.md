@@ -10,10 +10,42 @@
 [![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)]()
 
-<br/>
+check it out here https://adaptxfit.netlify.app/
 
-<!-- 🖼️ Add your hero banner / product screenshot here -->
-<!-- ![AdaptiFit Hero Banner](./assets/hero-banner.png) -->
+<br/>
+<img width="1912" height="1022" alt="image" src="https://github.com/user-attachments/assets/5b22acd7-1b20-4d76-8eb4-ec55290979ec" />
+<img width="1908" height="1020" alt="image" src="https://github.com/user-attachments/assets/975e7da5-4a17-4848-96ee-87bc12c676fd" />
+<img width="660" height="870" alt="image" src="https://github.com/user-attachments/assets/a8dc8181-bd27-40e7-aaf6-df62f1318fd4" />
+<img width="1910" height="1023" alt="image" src="https://github.com/user-attachments/assets/5c24a28b-10b9-47f4-9909-a238db7832c5" />
+<img width="1897" height="1012" alt="image" src="https://github.com/user-attachments/assets/db415c24-c61a-4cf1-8d16-49e049283f56" />
+<img width="1417" height="996" alt="image" src="https://github.com/user-attachments/assets/0633aec7-f480-4d6e-8f6e-50bace314d72" />
+<img width="1357" height="1023" alt="image" src="https://github.com/user-attachments/assets/da449645-9425-4af8-ab69-536abf22019a" />
+<img width="1545" height="1062" alt="image" src="https://github.com/user-attachments/assets/31583ed0-2ac2-4d95-9a8d-8a671b17dcf3" />
+<img width="1915" height="1021" alt="image" src="https://github.com/user-attachments/assets/8ab8cda5-50be-4caf-94bb-d4afe0e9e3bb" />
+<img width="1383" height="806" alt="image" src="https://github.com/user-attachments/assets/864a216f-cfbd-43db-a0c5-b98aa60247ab" />
+<img width="1917" height="1003" alt="image" src="https://github.com/user-attachments/assets/be716165-ccd5-4d7a-b87b-e13e1d6864f4" />
+<img width="1630" height="477" alt="image" src="https://github.com/user-attachments/assets/abf11056-cdd8-4e05-908d-1641b8bf758e" />
+<img width="1385" height="1036" alt="image" src="https://github.com/user-attachments/assets/7c574ad8-629a-4885-9088-ba89c185296e" />
+<img width="1901" height="1018" alt="image" src="https://github.com/user-attachments/assets/d0e4dfd3-015d-4152-a364-f8a7ffdc7308" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1177" height="872" alt="image" src="https://github.com/user-attachments/assets/51d4ebc4-621e-4229-b4c7-aceb9f73c17e" />
+<img width="1000" height="932" alt="image" src="https://github.com/user-attachments/assets/7c6ceb86-e440-4f2b-9038-bc2a61f6cd28" />
+
+
 
 [Overview](#-executive-summary) · [The Problem](#-the-problem) · [Our Solution](#-our-solution) · [How It Works](#-how-it-works) · [Architecture](#-system-architecture) · [Features](#-key-features) · [Tech Stack](#-tech-stack) · [Impact](#-impact--why-this-matters) · [Roadmap](#-roadmap) · [Team](#-team)
 
